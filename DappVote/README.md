@@ -1,5 +1,5 @@
 
-# Election - DAPP Tutorial
+# Election - DAPP 
 
 
 ## Dependencies
